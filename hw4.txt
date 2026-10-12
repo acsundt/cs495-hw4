@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new line in master
+=======
+New line
+>>>>>>> question-5
